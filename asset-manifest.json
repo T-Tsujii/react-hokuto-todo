@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/T-Tsujii/react-hokuto-todo/static/css/main.e5b81263.chunk.css",
-    "main.js": "/T-Tsujii/react-hokuto-todo/static/js/main.0e4a2abd.chunk.js",
-    "main.js.map": "/T-Tsujii/react-hokuto-todo/static/js/main.0e4a2abd.chunk.js.map",
-    "runtime-main.js": "/T-Tsujii/react-hokuto-todo/static/js/runtime-main.613e11c8.js",
-    "runtime-main.js.map": "/T-Tsujii/react-hokuto-todo/static/js/runtime-main.613e11c8.js.map",
-    "static/js/2.0bf27ccf.chunk.js": "/T-Tsujii/react-hokuto-todo/static/js/2.0bf27ccf.chunk.js",
-    "static/js/2.0bf27ccf.chunk.js.map": "/T-Tsujii/react-hokuto-todo/static/js/2.0bf27ccf.chunk.js.map",
-    "static/js/3.fb34f24a.chunk.js": "/T-Tsujii/react-hokuto-todo/static/js/3.fb34f24a.chunk.js",
-    "static/js/3.fb34f24a.chunk.js.map": "/T-Tsujii/react-hokuto-todo/static/js/3.fb34f24a.chunk.js.map",
-    "index.html": "/T-Tsujii/react-hokuto-todo/index.html",
-    "static/css/main.e5b81263.chunk.css.map": "/T-Tsujii/react-hokuto-todo/static/css/main.e5b81263.chunk.css.map",
-    "static/js/2.0bf27ccf.chunk.js.LICENSE.txt": "/T-Tsujii/react-hokuto-todo/static/js/2.0bf27ccf.chunk.js.LICENSE.txt"
+    "main.css": "/react-hokuto-todo/static/css/main.e5b81263.chunk.css",
+    "main.js": "/react-hokuto-todo/static/js/main.0e4a2abd.chunk.js",
+    "main.js.map": "/react-hokuto-todo/static/js/main.0e4a2abd.chunk.js.map",
+    "runtime-main.js": "/react-hokuto-todo/static/js/runtime-main.d7e75e67.js",
+    "runtime-main.js.map": "/react-hokuto-todo/static/js/runtime-main.d7e75e67.js.map",
+    "static/js/2.0bf27ccf.chunk.js": "/react-hokuto-todo/static/js/2.0bf27ccf.chunk.js",
+    "static/js/2.0bf27ccf.chunk.js.map": "/react-hokuto-todo/static/js/2.0bf27ccf.chunk.js.map",
+    "static/js/3.fb34f24a.chunk.js": "/react-hokuto-todo/static/js/3.fb34f24a.chunk.js",
+    "static/js/3.fb34f24a.chunk.js.map": "/react-hokuto-todo/static/js/3.fb34f24a.chunk.js.map",
+    "index.html": "/react-hokuto-todo/index.html",
+    "static/css/main.e5b81263.chunk.css.map": "/react-hokuto-todo/static/css/main.e5b81263.chunk.css.map",
+    "static/js/2.0bf27ccf.chunk.js.LICENSE.txt": "/react-hokuto-todo/static/js/2.0bf27ccf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.613e11c8.js",
+    "static/js/runtime-main.d7e75e67.js",
     "static/js/2.0bf27ccf.chunk.js",
     "static/css/main.e5b81263.chunk.css",
     "static/js/main.0e4a2abd.chunk.js"

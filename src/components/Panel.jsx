@@ -5,10 +5,11 @@ import { Task } from './Task';
 
 export const Panel = (props) => {
   const { showCompleted, tasks, setTasks } = props;
+
   return (
     <div className={styles.panel} role="tabpanel">
       {tasks.map((task) => (
-        <Task key={task.id} task={task} showCompleted={showCompleted} setTasks={setTasks} />
+        <Task key={task.id} task={task} tasks={tasks} showCompleted={showCompleted} setTasks={setTasks} />
       ))}
     </div>
   );

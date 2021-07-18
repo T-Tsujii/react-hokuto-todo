@@ -38,4 +38,8 @@
   &:active {
     background-color: #888;
   }
+
+  &:disabled {
+    cursor: default;
+  }
 }

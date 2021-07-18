@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-hokuto-todo/static/css/main.e5b81263.chunk.css",
-    "main.js": "/react-hokuto-todo/static/js/main.0e4a2abd.chunk.js",
-    "main.js.map": "/react-hokuto-todo/static/js/main.0e4a2abd.chunk.js.map",
+    "main.js": "/react-hokuto-todo/static/js/main.9fa61473.chunk.js",
+    "main.js.map": "/react-hokuto-todo/static/js/main.9fa61473.chunk.js.map",
     "runtime-main.js": "/react-hokuto-todo/static/js/runtime-main.d7e75e67.js",
     "runtime-main.js.map": "/react-hokuto-todo/static/js/runtime-main.d7e75e67.js.map",
     "static/js/2.0bf27ccf.chunk.js": "/react-hokuto-todo/static/js/2.0bf27ccf.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d7e75e67.js",
     "static/js/2.0bf27ccf.chunk.js",
     "static/css/main.e5b81263.chunk.css",
-    "static/js/main.0e4a2abd.chunk.js"
+    "static/js/main.9fa61473.chunk.js"
   ]
 }

@@ -1,0 +1,11 @@
+.message_area {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2.5rem;
+  background-color: #222;
+  transition: opacity 0.6s;
+  border-radius: 5px;
+}
